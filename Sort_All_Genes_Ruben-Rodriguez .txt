@@ -1,1 +1,36 @@
 
+
+GeneID1DCH      1
+GeneID2DCH      2
+GeneID3DCH      3
+GeneID4DCH      4
+GeneID5DCH      5
+GeneID6DCH      6
+GeneID7DCH      7
+GeneID8DCH      8
+GeneID9DCH      9
+GeneID10DCH     10
+GeneID11DCH     11
+GeneID12DCH     12
+GeneID13DCH     13
+GeneID14DCH     14
+GeneID15DCH     15
+GeneID16DCH     16
+GeneID17DCH     17
+GeneID18DCH     18
+GeneID19DCH     19
+GeneID20DCH     20
+GeneID21DCH     21
+GeneID22DCH     22
+GeneID23DCH     23
+GeneID24DCH     24
+GeneID25DCH     25
+GeneID26DCH     26
+GeneID27DCH     27
+GeneID28DCH     28
+GeneID29DCH     29
+GeneID30DCH     30
+GeneID31DCH     31
+
+
+Charles needs to resequence GeneID15DCH.
